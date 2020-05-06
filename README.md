@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Its main Aws was to demo the use of AWS Amplify to deploy it and set a CI/CD pipeline
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Its main use was to demo the use of AWS Amplify to deploy it and set a CI/CD pipeline
 
 ## Available Scripts
 
